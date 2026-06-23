@@ -90,7 +90,7 @@ Through this project, I learned:
 ## Output
 The final cleaned dataset was exported as:
 
-(cleaned_netflix.csv)
+[(./cleaned_netflix.csv)]
 
 ---
 
